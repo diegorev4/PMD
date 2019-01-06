@@ -1,7 +1,7 @@
 ![alt text](https://pmd.github.io/img/pmd_logo.png)
 # 1. PMD
 
-Es un analizador de código fuente. Se trata de un analizador de código basado en reglas configurables. Posee un conjunto (ruleset) de reglas (rules) básicas y permite implementar reglas adaptadas a cada necesidad, asignándoles la prioridad según su importancia. Esta herramienta es extensible y configurable ya que se pueden añadir nuevas reglas o configurar las que ya se incluyen en caso de que esto fuera necesario. Es totalmente integrable en entornos como NetBeans o Eclipse. Posee la capacidad de analizar código desde la ejecución y detectar código que no se usa, código no óptimo, expresiones redundantes, códigos duplicados y otros posibles errores. Está integrado con los principales IDEs como JDeveloper, Eclipse, jEdit, JBuilder, BlueJ, CodeGuide, NetBeans / Sun Java Studio Enterprise / Creador e IntelliJ IDEA, entre otros [11]. La herramienta contempla 29 ruleset y 344 rules, pudiéndose crear nuevas reglas.
+PMD es un analizador de código fuente estático. El analizador utliza reglas que pueden ser configuradas por el progrmador. Existe un conjunto de reglas básico y es posible implementar nuevas reglas adpatadas a las necesidadesde cada proyecto, es posible indicar la prioridad de cada regla. PMD es capaz de analizar código desde la ejecución y detectar posibles bugs, código muerto, código duplicado, ifs innecesarios, código poco óptimo y otros fallos. Está integrado con los principales IDEs como JDeveloper, Eclipse, jEdit, JBuilder, BlueJ, CodeGuide, NetBeans / Sun Java Studio Enterprise / Creador e IntelliJ IDEA, entre otros. La herramienta contemplamultitud de reglas, pudiéndose crear nuevas reglas.
 
 ## 2. Instalación
 
