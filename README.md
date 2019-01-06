@@ -5,6 +5,8 @@ PMD es un analizador de código fuente estático. El analizador utliza reglas qu
 
 ## 2. Instalación
 
+PMD se encuentra disponible en un gran número de IDEs, en esta guia se muestran los pasos para instalar el plugin en Eclipse y Android Studio (IDEA). Tambien es posible utilizar PMD mediante linea de comandos. En la pagina web oficial de PMD se encuentran más tutoriales para otros entornos. https://pmd.github.io/ 
+
 ### 2.1 Eclipse 
 
 La descripción para instalar el plugin de PMD en eclipse se detalla a continuación:
